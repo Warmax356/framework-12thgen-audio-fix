@@ -1,6 +1,7 @@
 # Framework 13 (12th Gen Intel) Audio Hot-Reload Workaround
 
 [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/Warmax356/framework-12thgen-audio-fix/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/Warmax356/framework-12thgen-audio-fix)
+[![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:d0eef2d404f14c68ea139bd86eabb84b2662d784/)](https://archive.softwareheritage.org/swh:1:dir:d0eef2d404f14c68ea139bd86eabb84b2662d784;origin=https://github.com/Warmax356/framework-12thgen-audio-fix;visit=swh:1:snp:174ac1ce8ecee94219a6ccd332b652f2d088f4b6;anchor=swh:1:rev:93023d93b24246d9b99a3b517597de029a04c3ab)
 [![Bash](https://img.shields.io/badge/Language-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![License](https://img.shields.io/github/license/Warmax356/framework-12thgen-audio-fix)](LICENSE)
 
